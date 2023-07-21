@@ -1,0 +1,56 @@
+body {
+    background-color:rgb(159, 159, 159);
+}
+
+p {
+    color:rgb(52, 52, 52);
+}
+
+h1 {
+    color:white;
+}
+
+h2 {
+    color:rgb(52, 52, 52);
+}
+
+h3 {
+    color:rgb(52, 52, 52);
+}
+
+h4 {
+    color:rgb(52, 52, 52);
+}
+
+h5 {
+    color:rgb(52, 52, 52);
+}
+
+h6 {
+    color:rgb(52, 52, 52);
+}
+
+/* This next part is for the header and if possible, please tag the header with <div class="hdr"> */
+
+.hdr {
+    background-color:rgb(52, 52, 52);
+}
+
+.link { color: cornflowerblue; }
+.link:hover { color: antiquewhite; }
+
+/* This section is for the image- so it is centered and has round corners */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  img.rounded-corners {
+    border-radius: 30px;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
